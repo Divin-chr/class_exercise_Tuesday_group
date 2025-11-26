@@ -5,6 +5,6 @@
 ###
 ###
 
-**there have been some issues in creating an organisation sa you may presume in the screenshot bellow**
+**there have been some issues in creating an organisation as you may presume in the screenshot bellow**
 
 ![alt text](image.png)
