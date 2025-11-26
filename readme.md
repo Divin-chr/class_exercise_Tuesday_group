@@ -5,6 +5,3 @@
 ### Ukwishaka Sandrine ID:27672 email: ukwishakasandrine6@gmail.com
 ### UMUBYEYI GAHAMANYI Madeleine ID: 28267 email: madeleineugahamanyi@gmail.com
 
-**there have been some issues in creating an organisation as you may presume in the screenshot bellow**
-
-![alt text](image.png)
